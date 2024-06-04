@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(89, 237, 101);
+}
+h1{ color: rgb(255, 251, 0);}
+
+h2{ color: hsl(18, 54%, 50%);}
+
+h3{ color: rgb(255, 0, 140);}
+
+h4{ color: forestgreen;}
+
+h5{color: dimgrey; }
+
+h6{ color: maroon;}
+
+p{color: saddlebrown;}
